@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1032082090705-ff57oqr54b3t2tai5t4j1q0s56kovaon.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1032082090705</string>
+    <string name="google_api_key" translatable="false">AIzaSyCmWod-y60Gudl3wnoEKczhE6uuu_oupyM</string>
+    <string name="google_app_id" translatable="false">1:1032082090705:android:7b1d436d5bbce0e85c73f0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCmWod-y60Gudl3wnoEKczhE6uuu_oupyM</string>
+    <string name="google_storage_bucket" translatable="false">trainingappreactnative2022.appspot.com</string>
+    <string name="project_id" translatable="false">trainingappreactnative2022</string>
+</resources>

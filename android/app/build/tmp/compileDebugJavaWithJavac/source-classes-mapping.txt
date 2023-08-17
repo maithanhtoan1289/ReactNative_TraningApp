@@ -1,0 +1,14 @@
+com/trainingapp/BuildConfig.java
+ com.trainingapp.BuildConfig
+com/trainingapp/MainActivity.java
+ com.trainingapp.MainActivity
+com/trainingapp/ReactNativeFlipper.java
+ com.trainingapp.ReactNativeFlipper
+ com.trainingapp.ReactNativeFlipper$1
+ com.trainingapp.ReactNativeFlipper$2
+ com.trainingapp.ReactNativeFlipper$2$1
+com/trainingapp/MainApplication.java
+ com.trainingapp.MainApplication
+ com.trainingapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
